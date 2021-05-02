@@ -1,0 +1,27 @@
+{
+  "name": "GraphQL-Fundamentals",
+  "version": "1.0.0",
+  "description": "Fundamentals of GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js --exec babel-node -e js",
+    "sample": "node ./dev-data/data/import-dev-data.js --exec babel-node -e js",
+    "blowitallaway": "node ./dev-data/data/import-dev-data.js --delete --exec babel-node -e js"
+  },
+  "keywords": [],
+  "author": "Emmanuel Adebayo",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.4",
+    "mongoose": "^5.12.7"
+  }
+}

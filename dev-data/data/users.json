@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "608c73b64309d86e34c30d56",
+    "items": ["608c327249c68e5fa41f6dec", "608c62e0cf0eeb4aacfdccec"],
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "jdoe@example.com",
+    "age": 28,
+    "gender": "MALE",
+    "createdAt": "2021-05-01T20:05:13.210Z"
+  },
+  {
+    "_id": "608c74eb100fa26a6498b94a",
+    "items": ["608c327249c68e5fa41f6dec"],
+    "firstName": "Mary",
+    "lastName": "Doe",
+    "email": "mdoe@example.com",
+    "age": 30,
+    "gender": "FEMALE",
+    "createdAt": "2021-05-01T20:11:15.730Z"
+  },
+  {
+    "_id": "608dcc6b67d48d4b08894300",
+    "items": ["608dc3ae94e75b6e8c3e8793"],
+    "firstName": "Alexandra",
+    "lastName": "Stankovic",
+    "email": "alex@example.com",
+    "age": 34,
+    "gender": "FEMALE",
+    "createdAt": "2021-05-01T21:47:23.423Z"
+  },
+  {
+    "_id": "608dccef67d48d4b08894301",
+    "items": ["608dc41e94e75b6e8c3e8794"],
+    "firstName": "Anne",
+    "lastName": "George",
+    "email": "annie@example.com",
+    "age": 26,
+    "gender": "FEMALE",
+    "createdAt": "2021-05-01T21:49:35.037Z"
+  },
+  {
+    "_id": "608dcd5b67d48d4b08894302",
+    "items": ["608dc5295ddf5168fc37fce7", "608dc3ae94e75b6e8c3e8793"],
+    "firstName": "Max",
+    "lastName": "Mason",
+    "email": "max@example.com",
+    "age": 27,
+    "gender": "MALE",
+    "createdAt": "2021-05-01T21:51:23.389Z"
+  }
+]

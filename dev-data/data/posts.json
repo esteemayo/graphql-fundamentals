@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "608db47980d44452b8ebdb1b",
+    "title": "My New GraphQL Post!",
+    "text": "Lorem ipsum dolr sit amet...",
+    "createdAt": "2021-05-01T20:05:13.210Z"
+  },
+  {
+    "_id": "608db5e384570c5a801ea2af",
+    "title": "Welcome to my GraphQL post",
+    "text": "Lorem ipsum dolor sit amet...",
+    "createdAt": "2021-05-01T20:11:15.730Z"
+  },
+  {
+    "_id": "608db7c67e948868cc12cd80",
+    "title": "Testing GraphQL",
+    "text": "Lorem ipsum dolor sit amet...",
+    "createdAt": "2021-05-01T20:19:18.125Z"
+  },
+  {
+    "_id": "608dbdbdbac1ee45bc926510",
+    "title": "Test Example",
+    "text": "Lorem ipsum dolor sit amet...",
+    "createdAt": "2021-05-01T20:44:45.820Z"
+  },
+  {
+    "_id": "608dbdc9bac1ee45bc926511",
+    "title": "Test Example 2",
+    "text": "Lorem ipsum dolor sit amet...",
+    "createdAt": "2021-05-01T20:44:57.094Z"
+  }
+]

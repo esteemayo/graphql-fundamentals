@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "608c327249c68e5fa41f6dec",
+    "text": "Lorem ipsum dolor",
+    "title": "This is a GraphQL story",
+    "time": 4,
+    "deleted": false,
+    "timeISO": "2021-04-30T16:38:10.139Z"
+  },
+  {
+    "_id": "608c62e0cf0eeb4aacfdccec",
+    "text": "Lorem ipsum dolor sit amet",
+    "title": "Testing GraphQL",
+    "time": 5,
+    "deleted": false,
+    "timeISO": "2021-04-30T20:04:48.921Z"
+  },
+  {
+    "_id": "608dc3ae94e75b6e8c3e8793",
+    "text": "A new item from hacker news",
+    "title": "Hacker News Item",
+    "time": 10,
+    "deleted": false,
+    "timeISO": "2021-05-01T21:10:06.775Z"
+  },
+  {
+    "_id": "608dc41e94e75b6e8c3e8794",
+    "text": "Testing GraphQL",
+    "title": "Testing our GraphQL update functionality!",
+    "time": 11,
+    "deleted": false,
+    "timeISO": "2021-05-01T21:11:58.371Z"
+  },
+  {
+    "_id": "608dc5295ddf5168fc37fce7",
+    "text": "Testing grapgql",
+    "title": "Example",
+    "time": 11,
+    "deleted": false,
+    "timeISO": "2021-05-01T21:16:25.276Z"
+  }
+]
